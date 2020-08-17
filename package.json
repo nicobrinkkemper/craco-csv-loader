@@ -1,6 +1,6 @@
 {
   "name": "craco-csv-loader",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A craco plugin to use csv-loader with create-react-app",
   "main": "index.js",
   "author": "Nico Brinkkemper",
