@@ -18,7 +18,7 @@ $ yarn add -D craco-csv-loader
 
 `craco-csv-loader` expect a `test` option containing your regex selector.
 
-Here is a simple `craco.config.js` example for `frag` (OpenGL Fragment Shader) files:
+Here is a simple `craco.config.js` example for `.csv` files:
 
 ```js
 const csvLoader = require('craco-csv-loader')
