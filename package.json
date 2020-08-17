@@ -1,0 +1,29 @@
+{
+  "name": "craco-csv-loader",
+  "version": "1.0.0",
+  "description": "A craco plugin to use csv-loader with create-react-app",
+  "main": "index.js",
+  "author": "Nico Brinkkemper",
+  "license": "MIT",
+  "keywords": [
+    "craco",
+    "create-react-app",
+    "react",
+    "webpack",
+    "csv-loader"
+  ],
+  "devDependencies": {
+    "@craco/craco": "^5.6.4",
+    "eslint": "^7.7.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "husky": "^4.2.5",
+    "jest": "^26.4.0",
+    "lint-staged": "^10.2.11",
+    "prettier": "^2.0.5",
+    "react-scripts": "^3.4.3"
+  },
+  "dependencies": {
+    "csv-loader": "^3.0.3"
+  }
+}
