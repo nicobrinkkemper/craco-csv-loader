@@ -1,6 +1,6 @@
 {
   "name": "craco-csv-loader",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A craco plugin to use csv-loader with create-react-app",
   "main": "index.js",
   "author": "Nico Brinkkemper",
@@ -28,6 +28,7 @@
     "jest": "^26.4.0",
     "lint-staged": "^10.2.11",
     "prettier": "^2.0.5",
+    "run-s": "0.0.0",
     "standard-version": "^9.0.0"
   },
   "peerDependencies": {
