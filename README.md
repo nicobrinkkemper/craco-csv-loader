@@ -16,7 +16,7 @@ $ yarn add -D craco-csv-loader
 
 ## Basic Usage
 
-`craco-csv-loader` expect a `test` option containing your regex selector.
+`craco-csv-loader` tests for `.csv` files by default. You can provide any option that you can normally provide to the [csv-loader](https://github.com/theplatapi/csv-loader)
 
 Here is a simple `craco.config.js` example for `.csv` files:
 
